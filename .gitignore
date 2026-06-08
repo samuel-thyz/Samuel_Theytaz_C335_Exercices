@@ -1,0 +1,12 @@
+# Fichiers spécifiques à la machine ou générés (à ne pas versionner)
+.DS_Store
+.idea/
+*.iml
+
+# Build et caches Gradle / Android
+build/
+.gradle/
+.kotlin/
+local.properties
+captures/
+.cxx/
